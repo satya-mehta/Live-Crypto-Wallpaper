@@ -14,6 +14,8 @@ This Python script fetches real-time cryptocurrency market data (from CoinDCX), 
 ## 🖼 Example Output
 
 - A black background image with white and green/red text showing the coin status and time.
+- [Wallpaper preview when loss](images/example1.png)
+- [Live preview when profit](images/example2.png)
 
 ## 📁 File Structure
 
@@ -22,7 +24,7 @@ This Python script fetches real-time cryptocurrency market data (from CoinDCX), 
 ├── coin_data.json         # Stores latest fetched coin data
 ├── my_market.txt          # Stores your selected coin and buying price
 ├── wallpaper.png          # Generated wallpaper image
-├── main.py                # Main script file (your code)
+├── main.py                # Main script file
 └── README.md              # This file
 ```
 
