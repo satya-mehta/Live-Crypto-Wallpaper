@@ -1,0 +1,2 @@
+coin=NOTINR
+buying_price=0.214
